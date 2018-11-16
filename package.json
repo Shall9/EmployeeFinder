@@ -1,0 +1,23 @@
+{
+  "name": "employeefinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "employee.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shall9/EmployeeFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shall9/EmployeeFinder/issues"
+  },
+  "homepage": "https://github.com/Shall9/EmployeeFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
