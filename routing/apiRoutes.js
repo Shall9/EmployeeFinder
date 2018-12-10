@@ -1,4 +1,4 @@
-const employeeList = require("../app/data/employees");
+const employeeList = require("../app/data/employee");
 
 module.exports = (app) => {
  app.get("/api/employees", (req, res) => {
